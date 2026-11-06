@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "a4wVQdSMzpU=",
+  "success": true,
+  "projectFilePath": "/workspaces/AI-Customer-Support/CustomerSupport.Api/CustomerSupport.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.openapi/10.0.14/microsoft.aspnetcore.openapi.10.0.14.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.openapi/2.12.2/microsoft.openapi.2.12.2.nupkg.sha512",
+    "/home/codespace/.nuget/packages/npgsql/10.0.3/npgsql.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
